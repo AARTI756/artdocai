@@ -43,3 +43,9 @@ Visit → [http://localhost:5173](http://localhost:5173)
 ✅ AI-powered text generation and summarization
 ✅ Responsive UI with reusable components
 ✅ Easy integration with Gemini API
+
+
+## 🎥 Demo Video
+Watch the demo below:
+
+https://github.com/AARTI756/artdocai/blob/main/artdocai.mp4
